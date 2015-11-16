@@ -1,3 +1,5 @@
+## NOTE: This is the latest Material UI code from their master. I'm doing this since their team doesn't do CI and the latest bug fixes aren't in the public npm module.
+
 #[Material-UI](http://callemall.github.io/material-ui/)
 [![npm package](https://img.shields.io/npm/v/material-ui.svg?style=flat-square)](https://www.npmjs.org/package/material-ui)
 [![Build Status](https://travis-ci.org/callemall/material-ui.svg?branch=master)](https://travis-ci.org/callemall/material-ui)
